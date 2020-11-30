@@ -3,7 +3,7 @@ use_frameworks!
 platform :ios, '8.0'
 
 target 'UUKTools_Example' do
-  pod 'UUKTools', :path => '../'
+  pod 'UUKTools', :path => '/Users/zhangsen/Desktop/daimakuone/UUKTools/'
 
   target 'UUKTools_Tests' do
     inherit! :search_paths

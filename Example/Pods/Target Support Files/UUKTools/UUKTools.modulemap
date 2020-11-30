@@ -1,0 +1,6 @@
+framework module UUKTools {
+  umbrella header "UUKTools-umbrella.h"
+
+  export *
+  module * { export * }
+}

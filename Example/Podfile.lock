@@ -1,0 +1,16 @@
+PODS:
+  - UUKTools (0.1.0)
+
+DEPENDENCIES:
+  - UUKTools (from `/Users/zhangsen/Desktop/daimakuone/UUKTools/`)
+
+EXTERNAL SOURCES:
+  UUKTools:
+    :path: "/Users/zhangsen/Desktop/daimakuone/UUKTools/"
+
+SPEC CHECKSUMS:
+  UUKTools: a17e647a112710265e106ed2e91d708328343f7f
+
+PODFILE CHECKSUM: f9a65ac1df51d61d746a272b630d2b848c381dff
+
+COCOAPODS: 1.10.0
